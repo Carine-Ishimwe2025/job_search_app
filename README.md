@@ -1,16 +1,21 @@
-# job_search_app
+# Job Search App
 
-A new Flutter project.
+A Flutter implementation of a job search app UI.
 
-## Getting Started
+## Features
+- Job listing page with recommendations
+- Detailed job view
+- Modern UI with custom styling
+- Responsive design
 
-This project is a starting point for a Flutter application.
+## Screenshots
+[Add screenshots here]
 
-A few resources to get you started if this is your first Flutter project:
+## How to Run
+1. Clone the repository
+2. Run `flutter pub get`
+3. Run `flutter run`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Used
+- Flutter
+- Dart
